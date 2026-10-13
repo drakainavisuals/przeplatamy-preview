@@ -1,0 +1,244 @@
+{
+  "uri_occurrences": 34,
+  "unique_files": 34,
+  "assets": [
+    {
+      "file": "assets/embedded/01_embedded.ttf",
+      "mime": "font/ttf",
+      "source_offset": 206,
+      "sha256": "01689ad055025ff1891607b077513c9389f73360d471dcffa036e326af179b00",
+      "size_bytes": 48616
+    },
+    {
+      "file": "assets/embedded/02_embedded.ttf",
+      "mime": "font/ttf",
+      "source_offset": 65129,
+      "sha256": "a7bcb84cb01f6e33eecdd2cbff3f97ff1674c0e8e37c6921b6cd717b8c854d98",
+      "size_bytes": 48732
+    },
+    {
+      "file": "assets/embedded/03_embedded.ttf",
+      "mime": "font/ttf",
+      "source_offset": 130204,
+      "sha256": "5e39a358a65a72b6b74b56b384bbe17a61d8899d33cc255d49112e6522e3df0d",
+      "size_bytes": 48732
+    },
+    {
+      "file": "assets/embedded/04_embedded.svg",
+      "mime": "image/svg+xml",
+      "source_offset": 232064,
+      "sha256": "65012c5b1a62f6b56058514a3545e595c808e9cab857a263f49f09410277c2b9",
+      "size_bytes": 28929
+    },
+    {
+      "file": "assets/embedded/05_KNOWLOGO.svg",
+      "mime": "image/svg+xml",
+      "source_offset": 271507,
+      "sha256": "f26b9c7ab40d9c9e836284b190aba8acf32312d1f6a7517306f34681869c84b3",
+      "size_bytes": 28932
+    },
+    {
+      "file": "assets/embedded/06_KNOWPICTO.svg",
+      "mime": "image/svg+xml",
+      "source_offset": 310128,
+      "sha256": "a6f0bcd752d8b0b58fc14fad5ace3e30a6ceea7a24ef703680aea68b08165353",
+      "size_bytes": 4057
+    },
+    {
+      "file": "assets/embedded/07_EVENTART.svg",
+      "mime": "image/svg+xml",
+      "source_offset": 315585,
+      "sha256": "aa62c64ab03f9e3148e841029d2124fd6b1d03ffe8e27a0dda0d26fb0ee2d9b3",
+      "size_bytes": 22024
+    },
+    {
+      "file": "assets/embedded/08_embedded.svg",
+      "mime": "image/svg+xml",
+      "source_offset": 344999,
+      "sha256": "8af9b5e3f0606114c3386f8c4813075504a68971eaddde337645fb266f0e38dc",
+      "size_bytes": 284049
+    },
+    {
+      "file": "assets/embedded/09_embedded.svg",
+      "mime": "image/svg+xml",
+      "source_offset": 723761,
+      "sha256": "b37293ce9bad80c427e9965618c4b39d6e322d1ee4b3f9e0e7b63cd60f6f7c52",
+      "size_bytes": 292475
+    },
+    {
+      "file": "assets/embedded/10_embedded.svg",
+      "mime": "image/svg+xml",
+      "source_offset": 1113759,
+      "sha256": "76626a25ab3676b45e96b60f141b84a237f6f44b71118fcd0c574dcd7ca186ea",
+      "size_bytes": 41588
+    },
+    {
+      "file": "assets/embedded/11_embedded.svg",
+      "mime": "image/svg+xml",
+      "source_offset": 1169241,
+      "sha256": "58f7d6c29d347b70a0cf1455785a05a6f6ab585d5c8a7f245d38813f29218b07",
+      "size_bytes": 22090
+    },
+    {
+      "file": "assets/embedded/12_embedded.svg",
+      "mime": "image/svg+xml",
+      "source_offset": 1198727,
+      "sha256": "ef7081d2dadbc4c548b1fd74bcce21d09aa22c4db4dd480d891eb9afe331bda0",
+      "size_bytes": 10215
+    },
+    {
+      "file": "assets/embedded/13_HERO.png",
+      "mime": "image/png",
+      "source_offset": 1212389,
+      "sha256": "54f425d16b525d6632ed7a78f001717ed46b8ae00bf7d07bcd05a369285e3b0a",
+      "size_bytes": 79900
+    },
+    {
+      "file": "assets/embedded/14_FOCUSLOGO.svg",
+      "mime": "image/svg+xml",
+      "source_offset": 1318966,
+      "sha256": "279a86e15cf12eab83ece781d52691e455ced9062641b6f8cf684a6d98f73144",
+      "size_bytes": 28929
+    },
+    {
+      "file": "assets/embedded/15_ABOUTRIGHT.svg",
+      "mime": "image/svg+xml",
+      "source_offset": 1357993,
+      "sha256": "c7ebb9086d9595bd3b5cdcfda9c2a88a9f26558beb0c2486fc527e2875cb616e",
+      "size_bytes": 7377
+    },
+    {
+      "file": "assets/embedded/16_ABOUTPATH_B06.svg",
+      "mime": "image/svg+xml",
+      "source_offset": 1367879,
+      "sha256": "6e6e18216495e05b4e385fc3f56982adb102518d705ca945147fb3dc3e6e1ea4",
+      "size_bytes": 9678
+    },
+    {
+      "file": "assets/embedded/17_embedded.svg",
+      "mime": "image/svg+xml",
+      "source_offset": 1383006,
+      "sha256": "5fce38c7a942a55705b6cbe95aef8413fb9cb22a72d989338c8304f9f03bc296",
+      "size_bytes": 4786
+    },
+    {
+      "file": "assets/embedded/18_embedded.svg",
+      "mime": "image/svg+xml",
+      "source_offset": 1389439,
+      "sha256": "5f079dc3556804ec3a286c5c0107bb96e9695b8e22c162f34ec0e81dd514fdf7",
+      "size_bytes": 3937
+    },
+    {
+      "file": "assets/embedded/19_embedded.svg",
+      "mime": "image/svg+xml",
+      "source_offset": 1394740,
+      "sha256": "39d4e6845e6f48e7a82ac30ae9ef84eb5b635f49050d47f8fc5aae1761f88d65",
+      "size_bytes": 3779
+    },
+    {
+      "file": "assets/embedded/20_embedded.svg",
+      "mime": "image/svg+xml",
+      "source_offset": 1399840,
+      "sha256": "41235074d054932b7abb04f935f33822a69f3222beedcfa3aa9e95bda39b8aa4",
+      "size_bytes": 954
+    },
+    {
+      "file": "assets/embedded/21_embedded.svg",
+      "mime": "image/svg+xml",
+      "source_offset": 1401165,
+      "sha256": "77cb55baaeaa8090f4b62fa8cbb4ba0a4df291ee06b5dc4d50bed1b4553cdbfe",
+      "size_bytes": 885
+    },
+    {
+      "file": "assets/embedded/22_embedded.svg",
+      "mime": "image/svg+xml",
+      "source_offset": 1402398,
+      "sha256": "352e6da64c047aab79154e0728a7aa5c1584a302c5f5e1c4f778da4828a126f7",
+      "size_bytes": 5569
+    },
+    {
+      "file": "assets/embedded/23_embedded.svg",
+      "mime": "image/svg+xml",
+      "source_offset": 1409879,
+      "sha256": "040fa3b26499f7102c19aafb5ab3a949e4b70598ccdadee70ae096c6de5899f0",
+      "size_bytes": 4313
+    },
+    {
+      "file": "assets/embedded/24_embedded.svg",
+      "mime": "image/svg+xml",
+      "source_offset": 1415684,
+      "sha256": "61552e6fb4c8b4df73f0c0a0790b061b033b018f88246b16a883a4ac8fb4b5c3",
+      "size_bytes": 1230
+    },
+    {
+      "file": "assets/embedded/25_embedded.svg",
+      "mime": "image/svg+xml",
+      "source_offset": 1417375,
+      "sha256": "4c53007ed0cdc1d789292197b32289cd2758ee29fa94fa554ef929d334cdcfe0",
+      "size_bytes": 2484
+    },
+    {
+      "file": "assets/embedded/26_embedded.svg",
+      "mime": "image/svg+xml",
+      "source_offset": 1420741,
+      "sha256": "e467ed2f18bb49c87de8d1a4429e030fb4ff7e1b7f6aedfa739d41ae12b80f64",
+      "size_bytes": 4534
+    },
+    {
+      "file": "assets/embedded/27_embedded.svg",
+      "mime": "image/svg+xml",
+      "source_offset": 1426845,
+      "sha256": "2052b3e8ec7138eaa2f1db262bdadd7df4b3f26912be820395364e66f8303c62",
+      "size_bytes": 3982
+    },
+    {
+      "file": "assets/embedded/28_embedded.svg",
+      "mime": "image/svg+xml",
+      "source_offset": 1432199,
+      "sha256": "85c9a231411af2fe9f270664300c1c138c0c8249d543c622213f3ce07f331a7d",
+      "size_bytes": 4358
+    },
+    {
+      "file": "assets/embedded/29_embedded.svg",
+      "mime": "image/svg+xml",
+      "source_offset": 1438052,
+      "sha256": "bede8f4124b30bd00f221d8d71c4d440e5f51af77267466b0af9544560f0f4cf",
+      "size_bytes": 1235
+    },
+    {
+      "file": "assets/embedded/30_embedded.svg",
+      "mime": "image/svg+xml",
+      "source_offset": 1439746,
+      "sha256": "d4a6ddf5ccdf29bd4c0697c47b0cddf4d7aa2a26a70c01344f147921018ae6c5",
+      "size_bytes": 4628
+    },
+    {
+      "file": "assets/embedded/31_embedded.svg",
+      "mime": "image/svg+xml",
+      "source_offset": 1445962,
+      "sha256": "5a90a3a02a2b79a5aa13bf86e207ef46c5c21b1e69f07594926176efb948b774",
+      "size_bytes": 2875
+    },
+    {
+      "file": "assets/embedded/32_embedded.svg",
+      "mime": "image/svg+xml",
+      "source_offset": 1449839,
+      "sha256": "5fc9ec48f4f2672d3cc4c51330c97062c263123cc5a6d46b362dc410538f519a",
+      "size_bytes": 581
+    },
+    {
+      "file": "assets/embedded/33_embedded.svg",
+      "mime": "image/svg+xml",
+      "source_offset": 1450654,
+      "sha256": "cda10592fa15c236c152b76ea3d03e404264d30d139bf8413dae417ff57bff25",
+      "size_bytes": 810
+    },
+    {
+      "file": "assets/embedded/34_REPORT.pdf",
+      "mime": "application/pdf",
+      "source_offset": 1451915,
+      "sha256": "a58112a9e1b15fe47fd24c5d678aaf1e641cacf0e203891f795fd4b88ae7827d",
+      "size_bytes": 1499312
+    }
+  ]
+}
