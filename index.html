@@ -514,6 +514,12 @@ body.contact-page>footer a{min-height:44px}
  body.events-page .events-nav{flex-shrink:0}
 }
 
+/* VIS-01: rotate an interior crop at the existing proportional mobile scale. */
+@media(max-width:700px){
+ body.knowledge-page .knowledge-diagonal-bottom{aspect-ratio:1 / 1}
+ body.knowledge-page .knowledge-diagonal-bottom img{top:0;bottom:auto;left:600%;width:100%;transform:rotate(90deg);transform-origin:0 0}
+}
+
 /* Route menus must paint above decorative margins extending past main into the footer. */
 body:not(.focus-home)>#navigation{position:relative;z-index:2;isolation:isolate}
 </style><body><a href="#main" class="skip">Przejdź do treści</a><div class="prototype">Prototyp do prezentacji · teksty robocze · formularze demonstracyjne</div><header><div class="wrap"><a href="#/" class="logo" aria-label="PRZEPLATAMY — strona główna"><img src="assets/runtime/svg-04.svg" alt="PRZEPLATAMY — Stowarzyszenie Przedsiębiorcze Radomianki"></a><button class="utility toggle" aria-expanded="false" aria-controls="navigation">Menu <span aria-hidden="true">+</span></button></div></header><main id="main" tabindex="-1"></main><section id="navigation" class="panel" hidden aria-label="Poznaj PRZEPLATAMY"><div class="wrap"><div class="panel-top"><h2>Poznaj PRZEPLATAMY</h2><button class="utility" id="close">Zamknij <span aria-hidden="true">×</span></button></div><nav class="navgrid" aria-label="Główna nawigacja"></nav></div></section><footer><div class="wrap"><p>PRZEPLATAMY<br>Stowarzyszenie Przedsiębiorcze Radomianki</p><nav aria-label="Nawigacja w stopce"></nav><p>Wersja robocza do przeglądu z Joanną. Informacje prawne i dane kontaktowe — do uzupełnienia przed wdrożeniem.</p></div></footer><script>
