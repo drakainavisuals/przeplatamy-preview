@@ -199,12 +199,6 @@
       "mime": "image/svg+xml",
       "sha256": "cda10592fa15c236c152b76ea3d03e404264d30d139bf8413dae417ff57bff25",
       "bytes": 810
-    },
-    {
-      "file": "assets/documents/lokalna-sila-kobiet.pdf",
-      "mime": "application/pdf",
-      "sha256": "a58112a9e1b15fe47fd24c5d678aaf1e641cacf0e203891f795fd4b88ae7827d",
-      "bytes": 1499312
     }
   ]
 }
